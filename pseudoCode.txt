@@ -1,0 +1,29 @@
+First user number of days input.
+
+Assign initial infected to 7 and spread rate to 1.2
+Total population is 2440
+
+
+Each person can spread to 1.2 people.
+
+Yesterday's infected + Newly infected people today.
+
+Total percentage = (Total infected/ Total students)  * 100
+
+
+need to loop and take an input from the user [day], and calculate the number of infected and percentage of infected after that many days.
+Update:
+Students getting sick before 14 days will with draw and get full refund.
+Inform number of students getting infected and withdraw.
+Calculate the lose of money.
+9,972 per student.
+
+
+First: Check the number of students getting sick in the first 14 days.
+Delete these students from the rest.
+Multiply the number of sick students in first 14 days with tuition.
+Safe students get 5 % discount on the tuition fee
+
+Instructions:
+
+Select the executable file and follow the instructions.
