@@ -25,6 +25,8 @@ Multiply the number of sick students in first 14 days with tuition.
 Safe students get 5 % discount on the tuition fee
 
 Instructions:
+Use windows
+
 
 Select the executable file and follow the instructions.
 
